@@ -9,7 +9,7 @@ This project demonstrates how to read temperature and humidity data from a DHT22
 - DHT22 Temperature and Humidity Sensor
 - ILI9341 TFT Display
 
-### Here is how I connect the components:
+### Here is how I connected the components:
 
 | Component     | ESP32 Pin |
 |---------------|------------|
