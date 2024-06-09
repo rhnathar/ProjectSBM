@@ -1,5 +1,5 @@
 # ESP32 DHT22 Sensor Display on ILI9341
-This project demonstrates how to read temperature and humidity data from a DHT22 sensor using an ESP32 microcontroller and display the readings on ILI9341 TFT display.
+This project demonstrates how to read temperature and humidity data from a DHT22 sensor using an ESP32 microcontroller and display the readings on ILI9341 TFT display. UI are generated using Squareline Studio
 
 ![demo.jpeg](https://github.com/rhnathar/ProjectSBM/blob/main/demo.jpeg)
 ![graph.jpeg](https://github.com/rhnathar/ProjectSBM/blob/main/graph.jpeg)
