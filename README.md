@@ -32,3 +32,7 @@ This project demonstrates how to read temperature and humidity data from a DHT22
 | T_DO          | GPIO39     |
 | T_DIN         | GPIO32     |
 | T_CS          | GPIO16     |
+
+## My User_Setup.h file for TFT_eSPI
+Replace your User_Setup.h with this file if you want to try my code and connect the ILI9341 to the ESP32 as I did.
+[User_Setup.h](https://github.com/rhnathar/ProjectSBM/blob/main/User_Setup.h)
