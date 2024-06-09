@@ -16,7 +16,7 @@ This project demonstrates how to read temperature and humidity data from a DHT22
 | **DHT22**     |            |
 | VCC           | 3.3V       |
 | GND           | GND        |
-| Data          | GPI23      |
+| Data          | GPIO23     |
 | **ILI9341**   |            |
 | VCC           | 3.3V       |
 | GND           | GND        |
